@@ -2,4 +2,7 @@
 
 * [Background to Computing](README.md)
 * [Hardware and Software](hardware-and-software.md)
-* [Operating Systems](operating-systems.md)
+* [Operating Systems](operating-systems/README.md)
+  * [MS-DOS](operating-systems/ms-dos.md)
+  * [Windows](operating-systems/windows.md)
+  * [Unix](operating-systems/unix.md)
